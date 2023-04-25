@@ -1,5 +1,7 @@
 Automatic build of [mesa][] opengl implementations for 64-bit Windows.
 
+Added 32 bit version
+
 Builds are linked statically to their dependencies, just place necessary dll file next to your exe and it will use it.
 
 Download binary builds as zip archive from [latest release][] page. It provides following builds:
